@@ -1,4 +1,4 @@
-namespace pos
+namespace LoginForm
 {
     public partial class Form1 : Form
     {
@@ -6,6 +6,5 @@ namespace pos
         {
             InitializeComponent();
         }
-
     }
 }
